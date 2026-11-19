@@ -1,0 +1,9 @@
+venv/
+pyenv/
+intel_env/
+git
+IMPORTANT/
+__pycache__/
+.vscode/
+
+NNFS/data/
